@@ -2,8 +2,6 @@
 <h3 align="center">A passionate junior web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itszhou&label=Profile%20views&color=0e75b6&style=flat" alt="itszhou" /> </p>
-
 - 🌱 I’m currently learning: **Laravel framework and improving my Fronted skills**
 
 - 👨‍💻 All of my projects are available at: [https://github.com/ItsZhou](https://github.com/ItsZhou)
