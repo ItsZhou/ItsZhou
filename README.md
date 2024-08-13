@@ -2,8 +2,6 @@
 <h3 align="center">A passionate junior web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/720/1*qdAW1TjCN57h1lbuuzvchg.gif">
 
-- 🌱 I’m currently learning **Laravel framework and improving my Frontend skills**
-
 - 👨‍💻 All of my projects are available at: [https://github.com/ItsZhou](https://github.com/ItsZhou)
 
 - 📫 How to reach me: **susi.zhou22@gmail.com**
